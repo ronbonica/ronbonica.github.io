@@ -42,7 +42,7 @@ basic training because he isn't wearing any stripes yet.
 
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/ww2/jpeg/wedding.jpg">
+  <img src="{{ site.baseurl }}/assets/images/ww2/jpeg/Wedding.jpg">
 </p>
 
 <p align="center">
