@@ -75,7 +75,7 @@ Sometime before I was born, my father decided that it wasn't safe to have a bayo
 My father passed away in 1969. In time, my brothers and I grew up and moved away. But my mother, Florence,  kept the bayonet until her death in 2001. That's when it came into my possession. By then, I had a son, named Martin, and a daughter, named Dorothy.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/me_martin_and_dorothy.jpg">
+  <img src="{{ site.baseurl }}/assets/images/me_martin_and_dorothy.jpg" width="450" height="300">
 </p>
 
 <p align="center">
