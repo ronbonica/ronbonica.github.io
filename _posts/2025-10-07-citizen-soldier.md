@@ -19,22 +19,29 @@ just after his 21st birthday.
 </p>
 
 Sometime soon after basic training, he sent this picture home to 
-his beloved Florence DeFina. We know that this picture was soon after 
-basic training because he isn't wearing any stripes yet.
+his beloved Florence DeFina. We know that this picture was taken
+soon after basic training because he isn't wearing any stripes yet.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/ww2/jpeg/bayonet.jpg">
 </p>
 
 <p align="center">
-
   Pvt. Bonica With Bayonet
 </p>
 
   Because Pvt. Bonica had been a welder in civilian life, he was 
-  assigned to the 123rd Armoured Anti-Aircraft Battalion and was promoted
+  assigned to the 123rd Armored Anti-Aircraft Gun Battery and was promoted
   to the rank of Technical Sargeant. Over the next two years, he saw more combat
   than anyone his age should ever see.
+
+  <p align="center">
+  <img src="{{ site.baseurl }}/assets/images/ww2/jpeg/bigguns.jpg">
+</p>
+
+<p align="center">
+  Sgt. Bonica With A Few Buddies
+</p>
 
   Helen of Troy may have launched 1,000 ships, but Florence DeFina sent one 
   tough paesano into the European Theater. She must have been impressed by
@@ -50,6 +57,46 @@ basic training because he isn't wearing any stripes yet.
   Mr. & Mrs. Bonica
 </p>
 
+Somehow, Sgt. Bonica forgot to return the bayonet pictured above. 
+It came home to Massachusetts with him.
 
+In 1947, the Bonica's has a son, named Felix, after his father. In 1953, they had another son named John. In 1958,
+I came along.
 
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/three_boys.jpg">
+</p>
 
+<p align="center">
+Felix, John and Ron
+</p>
+
+Sometime before I was born, my father decided that it wasn't safe to have a bayonet in a house with two boys
+who enjoyed playing army. So, he used a vice to crimp the bayonet's metal sheath. This made it impossible to 
+draw the bayonet from its sheath.
+
+My father passed away in 1969. In time, my brothers and I grew up and moved away. But my mother kept the bayonet until
+her death in 2001. That's when it came into my possession. By then, I had a son, named Martin, and a 
+daughter, named Dorothy.
+
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/me_martin_and_dorothy.jpg">
+</p>
+
+<p align="center">
+Martin, Dorothy and Me, circa 2001.
+</p>
+
+When my son grew to be a man, I offered the bayonet to him. I also offered to have the crimp removed, so 
+he could draw it from its sheath. He insisted that the crimp remain. He realized that the crimp was
+a memorial to the day that my father found peace.
+
+On that day, I realized that my son had grown wise.
+
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/martin.jpg">
+</p>
+
+<p align="center">
+Martin, circa 2013.
+</p>
