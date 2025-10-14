@@ -26,7 +26,7 @@ soon after basic training because he isn't wearing any stripes yet.
 </p>
 
 <p align="center">
-  Pvt. Bonica With Bayonet
+  Pvt. Bonica
 </p>
 
   Because Pvt. Bonica was a welder in civilian life, the Army  
@@ -57,8 +57,8 @@ soon after basic training because he isn't wearing any stripes yet.
   Mr. & Mrs. Bonica
 </p>
 
-Somehow, Sgt. Bonica forgot to his government issued bayonet to the 
-United States Army.  It came home with him to Massachusetts.
+During his time in Europe, Sgt. Bonica acquired a German bayonet. Details about how he acquired the bayonet are foggy and it is not the same bayonet that he is wearing in the
+picture, above. After the war, the German bayonet came home with him to Massachusetts.
 
 In 1947, the Bonica's has a son, named Felix after his father. In 1953, they had another son named John. In 1958, I came along.
 
