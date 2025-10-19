@@ -2,9 +2,9 @@
 title: "The Citizen Soldier Finds Peace"
 date: 2025-10-7
 categories:
-  - America
+  - My Family
 tags:
-  - Felix A. Bonica
+  - Felix A. Boniica
 ---
 
 Felix A. Bonica was born to Stefano and Maria Bonica in 1922. In 1942, he joined a militant antifascist organization. He was inducted into that organization just after his 21st birthday.
