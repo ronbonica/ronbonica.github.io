@@ -7,8 +7,7 @@ tags:
   - Felix A. Bonica
 ---
 
-Felix A. Bonica was born to Stefano and Maria Bonica in 1922. In 1943, he joined a militant antifascist organization. He was inducted into that organization
-just after his 21st birthday.
+Felix A. Bonica was born to Stefano and Maria Bonica in 1922. In 1942, he joined a militant antifascist organization. He was inducted into that organization just after his 21st birthday.
 
 <p align="center">
 
@@ -17,9 +16,7 @@ just after his 21st birthday.
 
 </p>
 
-Sometime soon after basic training, he sent this picture home to 
-his beloved Florence DeFina. We know that this picture was taken
-soon after basic training because he isn't wearing any stripes yet.
+Sometime after basic training, he sent this picture home to his beloved Florence DeFina. We know that this picture was taken soon after basic training because he isn't wearing any stripes yet.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/ww2/jpeg/bayonet.jpg">
@@ -29,10 +26,7 @@ soon after basic training because he isn't wearing any stripes yet.
   Pvt. Bonica
 </p>
 
-  Because Pvt. Bonica was a welder in civilian life, the Army  
-  assigned him to the 123rd Armored Anti-Aircraft Gun Battery. He was 
-  quickly promoted to the rank of Technical Sargeant and sent to the European
-  Theater.  Over the next two years, he saw more combat
+  Because Pvt. Bonica was a welder in civilian life, the Army assigned him to the 123rd Armored Anti-Aircraft Gun Battery. He was quickly promoted to Technical Sargeant and sent to the European theater.  Over the next two years, he saw more combat
   than anyone his age should ever see.
 
   <p align="center">
@@ -44,7 +38,7 @@ soon after basic training because he isn't wearing any stripes yet.
 </p>
 
   Helen of Troy may have launched 1,000 ships, but Florence DeFina sent one 
-  tough paesano into the European Theater. She must have been impressed by
+  tough paesano into the European theater. She must have been impressed by
   Sgt. Bonica's wartime heroics, because they married in 1946.
 
 
@@ -57,7 +51,7 @@ soon after basic training because he isn't wearing any stripes yet.
   Mr. & Mrs. Bonica
 </p>
 
-During his time in Europe, Sgt. Bonica acquired a German bayonet. Details about how he acquired the bayonet are foggy and it is not the same bayonet that he is wearing in the
+During his time in Europe, Sgt. Bonica acquired a German bayonet. Details about how he acquired the bayonet are foggy. It is not the same bayonet that he is wearing in the
 picture, above. After the war, the German bayonet came home with him to Massachusetts.
 
 In 1947, the Bonica's has a son, named Felix after his father. In 1953, they had another son named John. In 1958, I came along.
@@ -67,7 +61,7 @@ In 1947, the Bonica's has a son, named Felix after his father. In 1953, they had
 </p>
 
 <p align="center">
-Felix, John and Ron
+Felix, John and Ronnie
 </p>
 
 Sometime before I was born, my father decided that it wasn't safe to have a bayonet in a house with two boys who enjoyed playing army. So, he used a vice to crimp the bayonet's metal sheath. This made it impossible to draw the bayonet.
@@ -84,7 +78,7 @@ Martin, Dorothy and Me, circa 2001.
 
 When my son grew to be a man, I offered the bayonet to him. I also offered to have the crimp removed, so he could draw it from its sheath. He insisted that the crimp remain. 
 
-He realized that the crimp was a memorial to the day that my father found peace.
+He realized that the crimp was a monument to the day that my father found peace.
 On that day, I realized that my son had grown wise.
 
 <p align="center">
